@@ -9,5 +9,5 @@
 
 |Name|Contact Info|Institution|Notes|
 |----|------------|-----------|-----|
-|||||
+|Amanda Cooksey|amcooksey@email.arizona.edu|UA||
 |||||
